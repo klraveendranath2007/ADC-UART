@@ -1,7 +1,6 @@
 # ADC-UART
+## Aim
 Analyse timer and UART operation by toggling an LED at one-second intervals using a timer interrupt and displaying “Hello World” through PuTTY using the UART API. Further, transmit the ADC register value and its corresponding voltage through UART. 
-
----
 
 ## Apparatus Required
 
