@@ -34,24 +34,8 @@ Analyse timer and UART operation by toggling an LED at one-second intervals usin
 
 ---
 ## OUTPUT
+<img width="620" height="391" alt="image" src="https://github.com/user-attachments/assets/e29555b6-4c4b-42d4-8b01-17b533fe725f" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 ## Result
 
 The **Timer and UART operation** was successfully analyzed and implemented. The LED was toggled at **one-second intervals using a timer interrupt**, and the message **"Hello World"** was successfully displayed on **PuTTY** through the UART API. The **ADC register value and its corresponding voltage** were also transmitted and displayed through UART, confirming the successful operation of the timer, ADC, and UART peripherals.
